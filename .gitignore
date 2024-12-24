@@ -3,7 +3,7 @@
 
 .vscode/*
 !.vscode/settings.json
-!.vscode/tasks.json
+!.vscode/tasks.json78687
 !.vscode/launch.json
 !.vscode/extensions.json
 *.code-workspace
